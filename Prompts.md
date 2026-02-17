@@ -1,4 +1,4 @@
-<PROMPTS UTILIZADOS E RESPOSTAS GERADAS PELO NOTEBOOKLM>
+PROMPTS UTILIZADOS E RESPOSTAS GERADAS PELO NOTEBOOKLM
 
 Eu: Me dê um panorama geral sobre o que é e como funcionam investimentos em renda fixa.
 
@@ -25,6 +25,8 @@ A maioria das aplicações segue uma tabela regressiva de Imposto de Renda, onde
 Nas fontes, destaca-se que a renda fixa é ideal para compor a reserva de emergência e de oportunidade, além de servir para reduzir o risco global de uma carteira diversificada (através da busca pela curva de eficiência). Contudo, especialistas alertam que, embora importante para a segurança, a renda fixa sozinha pode ter dificuldade em gerar grandes fortunas no longo prazo quando comparada a ativos geradores de renda da variável, como ações e fundos imobiliários.
 Se você tiver interesse em aprofundar seus conhecimentos para estudar ou revisar esses conceitos, eu posso criar flashcards com os principais termos e siglas ou um quiz para testar o que você aprendeu. Você gostaria que eu gerasse algum desses materiais?
 
+--------------------------------------------------------------------------------
+
 Eu: Qual a diferença real entre títulos públicos e crédito privado?
 
 NotebookLM: A principal diferença entre os títulos públicos e o crédito privado reside no emissor da dívida, o que impacta diretamente o nível de risco, as garantias e o potencial de rentabilidade de cada ativo.
@@ -45,6 +47,8 @@ Abaixo, detalho as distinções reais entre essas duas categorias:
 • Crédito Privado: A liquidez varia muito. Enquanto alguns CDBs oferecem liquidez diária, títulos como Debêntures, CRI e CRA costumam ter liquidez reduzida no mercado secundário e prazos de resgate bem mais longos.
 Em resumo, enquanto os títulos públicos funcionam como a base de segurança (taxa livre de risco) de uma carteira, o crédito privado serve para buscar retornos maiores, exigindo em troca uma análise mais cuidadosa da saúde financeira de quem está emitindo o papel.
 Gostaria que eu gerasse um relatório comparativo detalhando as taxas atuais e os riscos específicos de cada um desses ativos citados nas fontes?
+
+--------------------------------------------------------------------------------
  
 Eu: Como funciona o imposto de renda regressivo na renda fixa?
 
